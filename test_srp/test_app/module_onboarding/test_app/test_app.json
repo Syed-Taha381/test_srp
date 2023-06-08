@@ -1,0 +1,26 @@
+{
+ "allow_roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "creation": "2023-06-05 15:20:36.058220",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "https://apitest2.srp.ai",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2023-06-05 15:20:36.058220",
+ "modified_by": "Administrator",
+ "module": "Test App",
+ "name": "Test App",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "Create Employee"
+  }
+ ],
+ "subtitle": "Test App",
+ "success_message": "Redirect",
+ "title": "Test App"
+}
